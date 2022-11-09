@@ -1,0 +1,11 @@
+.tess {
+    font-family: arial;
+    font-size: 30px;
+    color: #7bfafa;
+}
+
+.image {
+    border-radius: 100%;
+    height: auto;
+    width: 360px;
+}

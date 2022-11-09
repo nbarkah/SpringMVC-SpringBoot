@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+h1 {
+	size:24px;
+}
+.container {
+	display:flex;
+	width:75%;
+	align-self:center;
+}
+
+.header {
+	text-align:center;
+}
+.formMhs {
+	text-align:center;
+}
